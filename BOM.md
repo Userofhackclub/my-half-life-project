@@ -18,7 +18,7 @@
 | [R_Axial_DIN0204_L3.6mm_D1.6mm_P7.62mm_Horizontal](https://www.pishop.us/product/resistor-10k-ohm-16w-5-axial-pack-of-10/) | A resistor to regulate the current for one of the sensors on Starbie | 1 | $0.95 | $0.95 | [pishop](https://www.pishop.us/product/resistor-10k-ohm-16w-5-axial-pack-of-10/) |
 | [SW_Cherry_MX_1.00u_PCB](https://mechanicalkeyboards.com/products/cherry-mx-black-hyperglide-60g-linear-pcb-mount-switch-mx1a-11nw-hg) | Buttons for me to interact with my Starbie with | 2 | $0.40 | $0.80 | [mechanicalkeyboards](https://mechanicalkeyboards.com/products/cherry-mx-black-hyperglide-60g-linear-pcb-mount-switch-mx1a-11nw-hg) |
 | **Parts subtotal** | — | — | — | **$24.45** | — |
-| **Tax & shipping** | — | — | — | **$6.00** | — |
-| **Total** | — | — | — | **$30.45** | — |
+| **Tax & shipping** | — | — | — | **$5.00** | — |
+| **Total** | — | — | — | **$29.45** | — |
 
-**$0.45 over the tier's funding.** Every tier gives a fixed amount for parts, so this needs cutting back or a higher tier.
+$0.55 left of the tier's funding.
