@@ -1,7 +1,21 @@
 
-It's October 11th and I just now created my github repo for Half Life, the 10 week Hack Club event that I decided to take part in.
-Today is the last day for me to submit my starbie project since its the last day of the first week and I am really exited.
+<h1 align="center">Starbie</h1>
+<p align="center">The Tamagochi like project I recreated for Half Life! </p>
 
-It took me around 16 hours to finish Starbie, and most of that was just me learning the tools and the workings of kicad, which was really fun!
-this is the 3D view of my starbie board!
-<img width="1920" height="1054" alt="Screenshot From 2026-10-11 19-01-46" src="https://github.com/user-attachments/assets/2c1af6aa-d3a9-446e-9b95-07b3183132ff" />
+## A description of this project:
+
+For me this project meant learning a whole new world of tinkering and creation that I have not experienced up to this point.
+
+Kicad was the tool of choice for this project, and I followed the handy Starbie guide here on github in order to create my very own starbie. Here is the link to the [Starbie guide!](https://github.com/SharKingStudios/Starbie/blob/main/Week%201%20Guide.md)
+
+The Starbie itself is similar in function to a retro Tamagochi toy with sensors and buttons for added functionality.
+
+## My work on the Starbie went something like this:
+Downloading Kicad as per instructions and immediately being overwhelmed by all the buttons and tools, but I a few great videos to get me started on the basics aside from the actual guide at hand.
+
+<details>
+<summary>more details on the videos here</summary>
+
+REMAINS TO BE ADDED
+
+</details>
