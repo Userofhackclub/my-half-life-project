@@ -1,6 +1,8 @@
 <h1 align="center">Starbie</h1>
 <p align="center">The Tamagochi like project I recreated for Half Life! </p>
 
+<img width="1920" height="1054" alt="Screenshot From 2026-10-11 19-01-46" src="https://github.com/user-attachments/assets/d8725e0e-8fd3-4b4b-996a-b166a148a210" />
+
 ## A description of this project:
 
 For me this project meant learning a whole new world of tinkering and creation that I have not experienced up to this point.
