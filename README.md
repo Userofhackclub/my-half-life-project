@@ -18,3 +18,7 @@ Downloading Kicad as per instructions and immediately being overwhelmed by all t
 This is the playlist of beginner videos I watched for this project. [press me!](https://youtube.com/playlist?list=PLUOaI24LpvQPls1Ru_qECJrENwzD7XImd)
 
 </details>
+
+After I mostly understood the task at hand I started the actual work on Starbie.
+
+
